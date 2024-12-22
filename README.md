@@ -1,17 +1,16 @@
-# React + TypeScript + Vite
+# DECENA STORES STARTING PAGES
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This app provides you with different ingredients for your cooking in cheap prices and very fast delivery .
 
-Currently, two official plugins are available:
+## Explaining the first pages
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+If you are new on the app you have to go through this pages:
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
-
-- Configure the top-level `parserOptions` property like this:
+- Our product advetisment pages
+- our get started page
+- Our allow and deny page, we value your protection so we made it that it is only this app that can see your location
+- our login and sign in page
+- You log in if you had an acccount before while you sign in if you dont already have an account
 
 ```js
 export default tseslint.config({
